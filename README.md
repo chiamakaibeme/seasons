@@ -1,3 +1,8 @@
+#SEASONS
+
+A simple app to determine the season a user is experiencing based on their geolocation
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
